@@ -1,7 +1,7 @@
 ### HypeTKG
 
 This is the code for our paper: 
-*Temporal Fact Reasoning over Hyper-Relational Knowledge Graphs.
+https://arxiv.org/abs/2307.10219.
 
 ### Installation
 ## Create a conda environment
